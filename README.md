@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a Bachelor's degree 3rd year in Information Technology at Laxmi Institute of Technology, Sarigam. <br><br>I am passionate about web development and actively building my skills in modern frameworks like Angular.<br><br>My focus is on staying updated with the latest technologies to grow as a proficient and innovative IT professional.<br>
+I am currently pursuing a Bachelor's degree 3rd year in Information Technology at Laxmi Institute of Technology, Sarigam. <br><br>I am passionate about full stack development and actively building my skills in modern frameworks like Angular&Spring Boot.<br><br>My focus is on staying updated with the latest technologies to grow as a proficient and innovative IT professional.<br>
 
 
 ## 🌐 Socials:
